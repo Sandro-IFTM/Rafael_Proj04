@@ -14,7 +14,6 @@ Gerado por `Scripts/pdf_para_md.py`. O PDF é a fonte oficial; o .md serve só p
 | `Carvalho_2022_PLoSONE.md` | citado no artigo | 17 |  |
 | `Joseph_2024_JAAE.md` | citado no artigo | 14 |  |
 | `Lopes_2023_RBZ.md` | citado no artigo | 21 |  |
-| `Gomes_2019_UFMS.md` | citado no artigo (v8) | 30 |  |
 | `MacKinnon_White_1985_JEconometrics.md` | citado no artigo | 21 |  |
 | `Pacheco_2023_PAB.md` | citado no artigo | 9 |  |
 | `Rosen_1974_JPE.md` | citado no artigo | 22 | escaneado, sem texto: usar o PDF |
@@ -31,6 +30,7 @@ Gerado por `Scripts/pdf_para_md.py`. O PDF é a fonte oficial; o .md serve só p
 | `nao_citadas_no_artigo/Faria_2017_CAB.md` | não citado | 9 |  |
 | `nao_citadas_no_artigo/Ferrazza_Castellani_2021_CAB.md` | não citado | 16 |  |
 | `nao_citadas_no_artigo/Garcia_2020_UFMS.md` | não citado | 149 |  |
+| `nao_citadas_no_artigo/Gomes_2019_UFMS.md` | não citado (retirado da v8: fonte com mais de 5 anos) | 30 |  |
 | `nao_citadas_no_artigo/GomesRC_2018_Embrapa_Doc257.md` | não citado | 52 |  |
 | `nao_citadas_no_artigo/Liakos_2018_Sensors.md` | não citado | 29 |  |
 | `nao_citadas_no_artigo/MacKinnon_White_wp537.md` | não citado | 24 |  |
