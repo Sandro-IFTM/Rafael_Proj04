@@ -20,7 +20,6 @@ Gerado por `Scripts/pdf_para_md.py`. O PDF é a fonte oficial; o .md serve só p
 | `Rowan_2022_AABP.md` | citado no artigo | 2 |  |
 | `Sales_2024_AnimReprod.md` | citado no artigo | 12 |  |
 | `Silveira_2022_UFMS.md` | citado no artigo | 234 |  |
-| `Spence_1973_QJE.md` | citado no artigo (v8) | 21 | escaneado, sem texto: usar o PDF |
 | `Thompson_2022_JAAE.md` | citado no artigo | 10 |  |
 | `Tversky_Kahneman_1974_Science.md` | citado no artigo | 9 |  |
 | `nao_citadas_no_artigo/Baruselli_2019_AnimReprod.md` | não citado | 12 |  |
@@ -36,5 +35,6 @@ Gerado por `Scripts/pdf_para_md.py`. O PDF é a fonte oficial; o .md serve só p
 | `nao_citadas_no_artigo/MacKinnon_White_wp537.md` | não citado | 24 |  |
 | `nao_citadas_no_artigo/Morota_2018_JAS.md` | não citado | 33 |  |
 | `nao_citadas_no_artigo/Pfeifer_2017_Embrapa_CT146.md` | não citado | 6 |  |
+| `nao_citadas_no_artigo/Spence_1973_QJE.md` | não citado (retirado da v8: o encaixe dos selos na teoria da sinalização é imperfeito e o Akerlof já sustenta o argumento) | 21 | escaneado, sem texto: usar o PDF |
 | `paginas_web/CEPEA_CNA_2025_PIB_agro_2024.md` | página web | - |  |
 | `paginas_web/OPresenteRural_2025_ANCP_Reproducao_Programada.md` | página web | - |  |
