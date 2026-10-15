@@ -1,6 +1,6 @@
 # Spence_1973_QJE
 
-- Arquivo: `Referencias/nao_citadas_no_artigo/Spence_1973_QJE.pdf`
+- Arquivo: `Referencias/Spence_1973_QJE.pdf`
 - Páginas: 21
 - Fonte oficial para citação: o PDF (conferir página e trecho literal nele).
 - **ATENÇÃO: PDF escaneado (imagem), sem camada de texto. Consultar as páginas no próprio PDF.**

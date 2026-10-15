@@ -1,6 +1,6 @@
 # Gomes_2019_UFMS
 
-- Arquivo: `Referencias/nao_citadas_no_artigo/Gomes_2019_UFMS.pdf`
+- Arquivo: `Referencias/Gomes_2019_UFMS.pdf`
 - Páginas: 30
 - Fonte oficial para citação: o PDF (conferir página e trecho literal nele).
 
