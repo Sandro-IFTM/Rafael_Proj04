@@ -1,0 +1,12 @@
+# Ambiente das análises (cadernos 02 a 13). O environment.yml é o ambiente da coleta (caderno 01, Windows).
+# Python 3.13 ou 3.14 (os resultados são idênticos nas duas versões).
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+statsmodels==0.15.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+openpyxl==3.1.5
+ipykernel
+nbclient
